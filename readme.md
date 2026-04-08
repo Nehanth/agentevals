@@ -4,7 +4,7 @@ A Chainlit-powered chat agent that answers questions about U.S. National Parks u
 
 ## Prerequisites
 
-- Python 3.13 (3.14 is not yet supported by Chainlit)
+- Python 3.13
 - An OpenAI API key — [get one here](https://platform.openai.com/api-keys)
 - An NPS API key (free) — [sign up here](https://www.nps.gov/subjects/developer/get-started.htm)
 

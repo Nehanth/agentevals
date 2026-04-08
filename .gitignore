@@ -3,7 +3,6 @@
 __pycache__/
 *.pyc
 *.log
-mlflow.db
 mlruns/
 chainlit.md
 .chainlit/
